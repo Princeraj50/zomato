@@ -1,0 +1,15 @@
+langchain
+langchain-core
+langsmith
+streamlit
+openai
+python-dotenv
+numpy
+pandas
+requests
+PyYAML
+langchain_openai
+pypdf
+chromadb
+langgraph
+langchain_community
